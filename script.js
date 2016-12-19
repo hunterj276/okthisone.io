@@ -1,0 +1,1 @@
+var $mq = $('.marquee').marquee();
